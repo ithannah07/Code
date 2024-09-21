@@ -1,7 +1,7 @@
 /**
  Hyeonseo Lee
  2024/09/20
- project3_Hyeonseo_Lee.cpp
+ GCD.cpp
  In this program, it gets two input values in order to calculate the greatest common divisor, and returns GCD.
  */
 
