@@ -49,8 +49,12 @@ int main()
     if (num_status == VALID)
     {
         result = GCD(first, second);
+        cout << "GCD: " << result << endl;
     }
-    cout << "GCD: " << result << endl;
+    else
+    {
+     court << "The value is invalid." << endl;
+    }
     return 0;
 }
 
